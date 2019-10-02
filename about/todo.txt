@@ -1,0 +1,66 @@
+ALLGEMEIN
+-Einheitliches Farbschema
+
+Login-Screen
+-Dynamische Uhr
+-Neustart hinzufügen
+
+MAIN
+-Dynamisches Rednet Symbol
+-Dynamische Uhr
+-Suche
+-Updates
+-Log-Out
+-Enter CraftOS
+-User Management
+
+Desktop
+-Implementierung von Symbolen
+
+Anwendungen
+-List View
+-Suche
+-Deinstallation von Apps
+-Hilfe
+
+Dateien
+-Linkes Menu
+-Fixen vom Scrollen (Scrollbar)
+-Reset der Runterscrollen Variable nach Wechsel des Pfads
+-Einstellungen
+-Help
+-Fix von Print (mehrere Seiten drucken)
+-Redstone Morsen
+
+Terminal
+-Hinzufügen des "run"-Befehles in $help.
+-run mit Parametern
+-Implementieren des "runwith" Befehles zum Starten einer App mit einer gewünschten Datei.
+-Search
+-Help
+
+Plug-Ins
+-Implementierung
+
+Settings
+-Implementierung
+
+Peripherals
+-Monitor
+-None Bundled Output Button: +1
+
+Network
+-Quit -> X in der Ecke
+-Network:	Implementierung
+-Internet:	@WELCOME soll eine echte Seite mit zuletzt besuchten Seiten sein.
+-Internet:	Fix von Bug mit '..'
+-Internet:	Scrollen auf Seiten ermöglichen
+-Internet:  Bilder
+-Internet:  Protected -> Passwort
+-Internet:	Websites ausdrucken
+-Mail:		Implementierung
+-Turtles:	ALLES!!!!
+-Help, Options
+
+Help & About
+

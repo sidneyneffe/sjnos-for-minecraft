@@ -1,0 +1,19 @@
+@public
+@doctype=stp
+
+Farben
+<text=Blaue#Schrift color=blue>
+<text=Roter#Hintergrund bg=red>
+
+
+Pfad dieser Seite (zu Demo Zwecken): stp://sjnos.com/index.stp
+<text=Oil.org link=STP:oil.org>				Globaler Link
+<text=Hallo.txt link=LOC:files/hallo.txt>	Localer Link
+<text=Unterseite link=~/test.stp>			Relativer Link
+
+
+
+Feature Wunsch:
+
+@bg=blue
+@color=white

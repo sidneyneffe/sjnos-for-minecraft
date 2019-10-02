@@ -1,0 +1,88 @@
+--ColorData
+0 white
+1 orange
+2 magenta
+3 lightBlue
+4 yellow
+5 lime
+6 pink
+7 gray
+8 lightgray
+9 cyan
+A purple
+B blue
+C brown
+D green
+E red
+F black
+
+local width, height = term.getSize()
+textutils.setCursorPos(math.floor(width-string.len("Fatal Exeption Error!"))/2, 2)
+
+99999000000000000099999099999
+90000099999090090090009090000
+99999000009099090090009099999
+00009000009090990090009000009
+99999099990090090099999099999
+
+--SJN Data
+.sef	Sjn Executable File
+.stx	Sjn TeXt file
+.sim	Sjn Image
+.sii	Sjn Icon Image
+.sbi	Sjn Background Image
+.saf	Sjn Animation File
+.red	sjn REDnet file
+.sbc	Sjn BundledCable file
+.scfg	Sjn ConFiGuration file
+.smf	Sjn Music File
+.sys	sjn SYStem file
+.help	sjn HELP file
+.sbf	Sjn Boot File
+
+
+SJNOS
+	system
+		programs
+			logout.sef
+			programs.sef
+			pluginloader.sef
+			shutdown.sef
+		boot
+			main.sbf
+			error.err
+		SJNOS
+			desktop.sef
+			starter.sef
+			login.sef
+			hello.sef --DONE (XBSAvvxB)
+	data
+		icons
+			sjn.sii
+			peripherals.sii
+		background
+			sjn.sbi
+			cc.sbi
+		programs
+			stext.sef
+			spaint.sef
+			sedit.sef
+			taskmgr.sef
+	settings
+		rednet.scfg
+		redstone.scfg
+		printer.scfg
+		disk.scfg
+		monitor.scfg
+	users
+		admin
+			user.scfg --PW etc.
+			data
+				[...]
+			programs
+				{...}
+		{...}
+	plugins
+		{...}
+	help
+		help.sef

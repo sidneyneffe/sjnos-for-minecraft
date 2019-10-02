@@ -1,0 +1,14 @@
+startup
+fs.delete("startup")
+fs.exists("startup")
+fs.copy("disk/startup","startup")
+os.shutdown()
+fs.copy
+pastebin
+dark
+trojaner
+virus
+Virus
+detected
+infected
+http

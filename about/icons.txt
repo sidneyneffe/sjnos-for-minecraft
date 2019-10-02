@@ -1,0 +1,91 @@
+13*8
+
+--Computercraft
+fffffffffffff
+f77777777777f
+f7f0fffffff7f
+f7ff0ff00ff8f
+f8f0fff00ff8f
+f88888888888f
+f888888885e8f
+fffffffffffff
+
+--Fußball
+   7777777
+  70ffff007
+ 70000000007
+ 700000fff07
+ 7fff00fff07
+ 7fff0000007
+  7ff00fff7
+   7777777
+
+--Flower
+4443333333333
+4443344433333
+3333411143333
+3333344433333
+3333535353333
+3333355533333
+3333335333333
+ddddddddddddd
+
+--Tree
+3333333333444
+3333555553444
+3333555553333
+3333555553555
+555333c333555
+555333c3333d3
+3c3333c3333c3
+ddddddddddddd
+
+--Book
+ccccccccccccc
+cccfffffffccc
+cccf33433fccc
+cccf34143fccc
+cccf33533fccc
+cccfdddddfccc
+cccfffffffccc
+ccccccccccccc
+
+--Money
+/
+    11111
+   1474471
+  147747471
+  174747471
+   1474471
+    11111
+/
+
+--Cactus
+4433333333333
+443ddd3333333
+333d8d3ddd333
+333ddd3ddd333
+333ddddd8d333
+33333d8ddd333
+33333ddd33333
+4444444444444
+
+--Spider
+ccccccccccccc
+ccfccfffccfcc
+cffcfffffcffc
+ffcfffffffcff
+fccfefffefccf
+fcccfffffcccf
+ccccccccccccc
+ccccccccccccc
+
+--Boat
+3333000033444
+3330000003444
+3300000000333
+333333c333333
+3888888888883
+bb888888888bb
+bbbb88888bbbb
+bbbbbbbbbbbbb

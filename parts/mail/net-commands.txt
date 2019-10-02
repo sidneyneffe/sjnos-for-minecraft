@@ -1,0 +1,9 @@
+$SJN.NET.SMAIL
+C:	.findServer
+S:	.iAmAServer
+C:	.isItOKForYouIfIConnectToYou
+S:	.yesItIsOK.info#<connected users>,<text>#
+
+C:	.user.check
+S:	.user.check.false
+S:	.user.check.true#<SENDER>,<DESTINATION>,<TITLE>,<TIME>,<CONTENT>#
