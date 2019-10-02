@@ -1,4 +1,4 @@
-# sjnos-for-minecraft
+# sjnos-for-minecraft (alpha)
 
 A sophisticated user interface for
 [Computercraft](https://www.computercraft.info/wiki/Main_Page) (a modification for [Minecraft](https://minecraft.net)). Its main features are:
@@ -7,6 +7,9 @@ A sophisticated user interface for
 - Utilities for Redstone and Bundled Cables
 - Peripherals: GPS, Rednet, Printers
 - File Explorer and Terminal
+- Servers, DNS, and HTML-like markup
+
+![image](about/pictures/music.jpg)
 
 ## Installation
 After installing Computercraft, type inside a golden computer:
