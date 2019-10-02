@@ -1,18 +1,18 @@
 # sjnos-for-minecraft (discontinued)
 
-> I worked on this project between the age of 15 and 17. It is written in Lua and uses Pastebin in its build pipeline, so expect it to be very rough around the edges.
+> I worked on this project between the age of 15 and 17. It is written in Lua and uses Pastebin in its build pipeline. I learned a lot since then. Expect it to be very rough around the edges.
 
 _SJNOS_ is a sophisticated user interface for
 computers in a modification of the game [Minecraft][mc]. It provides tools to manage industrial structures and helps with daily tasks.
 
 It requires [Computercraft][cc] (v1.5+) and was designed for [Tekkit Lite][tklite].
 
-Main Features:
+## Features:
 
 - Desktop-like User Interface
 - Utilities for managing Electricity (Redstone)
-- Utilities for Computercraft: GPS, Printers, Monitors, Disk Drives
-- File Explorer and Terminal
+- Utilities for Computercraft: GPS, Printers, Monitors, Disk Drives, Computers, Modems
+- File Explorer and (slightly) UNIX-like Terminal
 - Internet-like Server/Client Communication, Web-Browser, File Transfer
 
 ![image](about/pictures/music.jpg)
@@ -31,11 +31,11 @@ Follow the steps in the installer.
 
 ### Login
 ![image](about/pictures/login.jpg)
-Login into your personal account. Allows multiple users on every computer.
+Login into your account. Share your computer with other people and manage them as an admin.
 
 ### Desktop
 ![image](about/pictures/desktop.jpg)
-Start apps and work on tasks.
+Start your favorite apps and work on tasks.
 
 ### Redstone
 ![image](about/pictures/redstone.jpg)
@@ -64,7 +64,7 @@ Login to your remote server and upload new files, like programs, images or your 
 
 Made by Sidney Neffe from 2014 to 2016.
 
-Approx. 13,000 lines of code
+Contains approx. 13,000 lines of code.
 
 
 [cc]:https://www.computercraft.info/wiki/Main_Page
